@@ -8,6 +8,7 @@ public partial class ToDoDbcontext : DbContext
 {
     public ToDoDbcontext()
     {
+        /////////////////bhjgkj
     }
 
     public ToDoDbcontext(DbContextOptions<ToDoDbcontext> options)
